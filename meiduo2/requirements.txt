@@ -1,7 +1,7 @@
 alipay==0.7.4
 amqp==2.3.2
 billiard==3.5.0.3
-celery==4.2.0
+celery==5.2.2
 certifi==2018.4.16
 chardet==3.0.4
 diff-match-patch==20121119
