@@ -37,7 +37,7 @@ Pillow==5.1.0
 post==1.0.2
 public==1.0.3
 pycryptodomex==3.6.3
-PyJWT==1.6.4
+PyJWT==2.4.0
 PyMySQL==0.8.1
 python-alipay-sdk==1.7.1
 python-dateutil==2.7.3
